@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedMantesXG
 - 👀 I’m interested in creating simple but effective python modules
-- 🌱 I’m currently learning the implimentation of databases and GUI's.
+- 🌱 I’m currently learning the implimentation of databases in GUI's.
 - 💞️ I’m looking to collaborate on any thing that pays
 - 📫 How to reach me by email: redmantes111@gmail.com
 
